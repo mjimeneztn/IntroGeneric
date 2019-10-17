@@ -1,0 +1,11 @@
+C:\Users\Michelle\workspace\csharp\generics\stations\bin\Debug\netcoreapp3.0\stations.exe
+C:\Users\Michelle\workspace\csharp\generics\stations\bin\Debug\netcoreapp3.0\stations.deps.json
+C:\Users\Michelle\workspace\csharp\generics\stations\bin\Debug\netcoreapp3.0\stations.runtimeconfig.json
+C:\Users\Michelle\workspace\csharp\generics\stations\bin\Debug\netcoreapp3.0\stations.runtimeconfig.dev.json
+C:\Users\Michelle\workspace\csharp\generics\stations\bin\Debug\netcoreapp3.0\stations.dll
+C:\Users\Michelle\workspace\csharp\generics\stations\bin\Debug\netcoreapp3.0\stations.pdb
+C:\Users\Michelle\workspace\csharp\generics\stations\obj\Debug\netcoreapp3.0\stations.csprojAssemblyReference.cache
+C:\Users\Michelle\workspace\csharp\generics\stations\obj\Debug\netcoreapp3.0\stations.AssemblyInfoInputs.cache
+C:\Users\Michelle\workspace\csharp\generics\stations\obj\Debug\netcoreapp3.0\stations.AssemblyInfo.cs
+C:\Users\Michelle\workspace\csharp\generics\stations\obj\Debug\netcoreapp3.0\stations.dll
+C:\Users\Michelle\workspace\csharp\generics\stations\obj\Debug\netcoreapp3.0\stations.pdb

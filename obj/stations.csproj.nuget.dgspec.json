@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Michelle\\workspace\\csharp\\generics\\stations\\stations.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Michelle\\workspace\\csharp\\generics\\stations\\stations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Michelle\\workspace\\csharp\\generics\\stations\\stations.csproj",
+        "projectName": "stations",
+        "projectPath": "C:\\Users\\Michelle\\workspace\\csharp\\generics\\stations\\stations.csproj",
+        "packagesPath": "C:\\Users\\Michelle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michelle\\workspace\\csharp\\generics\\stations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Michelle\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
